@@ -1,0 +1,105 @@
+
+.head img{
+  padding-left: 24px;
+}
+.image img {
+  padding: 32px 24px;
+  width: 100%;
+}
+
+.container1 {
+  width: 40%;
+  color: rgb(66, 61, 61);
+  padding-bottom: 32px;
+  padding-left: 32px;
+}
+
+.container1 h1{
+  font-weight: bolder;
+  font-size: 65px;
+}
+
+.container1 p{
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.container1 .btn {
+  padding: 8px 150px; 
+}
+
+.part1 {
+  background-color: lightgray;
+}
+
+.part2 {
+  padding-left:24px;
+}
+.part2_1{
+  padding-top: 32px;
+}
+.image2 {
+  padding: 0px 24px 32px 0px;
+  width: 100%;
+}
+
+.part2 h1 {
+  padding-bottom: 24px;
+}
+
+.part2 p{
+  padding-bottom: 32px;
+}
+
+.image3 {
+  display: flex;
+  width: 100%;
+}
+
+.container2 {
+  padding: 16px;
+}
+
+.part3{
+  padding: 16px;
+}
+
+.image3 img{
+  height: 220px;
+  width: auto;
+}
+
+.courses {
+  background-color: lightgray;
+}
+
+video{
+  width: 100%;
+}
+
+.first {
+  margin-top: 32px;
+}
+.part5 {
+  padding: 16px;
+}
+.image4 {
+  display: flex;
+  width: 100%;
+}
+
+.image4 img{
+  height: 200px;
+  width: auto;
+}
+
+.part6 {
+  padding-left:24px;
+}
+
+hr {
+  border: 1px solid lightgray;
+}
+
+
+
